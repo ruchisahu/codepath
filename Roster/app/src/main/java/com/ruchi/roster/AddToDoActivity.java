@@ -1,4 +1,4 @@
-package com.ruchi.taskscheduler;
+package com.ruchi.roster;
 
 import android.app.Activity;
 import android.app.DatePickerDialog;
@@ -18,7 +18,7 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
-import com.ruchi.taskscheduler.ToDoItem.Status;
+import com.ruchi.roster.ToDoItem.Status;
 
 import java.util.Calendar;
 import java.util.Date;
