@@ -1,4 +1,4 @@
- Pre-work - Roster
+Pre-work - Roster
 
 Roster is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -30,6 +30,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+![alt tag](http://imgur.com/a/g4y8K)
+
 
 <img src='http://imgur.com/a/g4y8K' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
